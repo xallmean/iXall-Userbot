@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/7a9b18a93891114d9a228-2ff597fde9e9222fd9.jpg">
+  <img src="https://telegra.ph/file/6c7d8bf6fb5b3b2a3b128-6d1e9e9cab63a6924a.jpg">
 </p>
 
 🔥 𝗶𝗫𝗮𝗹𝗹-𝗨𝘀𝗲𝗿𝗯𝗼𝘁 adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
